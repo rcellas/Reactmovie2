@@ -5,7 +5,7 @@
 
 .rmdb-grid-content {
   display: grid;
-  grid-template-columns: auto auto auto auto;
+  grid-template-columns: repeat(4, 0.9fr);
 }
 
 .rmdb-grid-element {

@@ -28,13 +28,13 @@
   float: left;
 }
 
-.fa-time, .fa-revenue {
+.fa-clock, .fa-money-bill-alt {
   float: left;
   margin-top: -4px;
 
 }
 
-.fa-budget {
+.fa-ticket-alt {
   float: left;
   margin-top: -3px;
 }
