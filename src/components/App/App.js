@@ -7,7 +7,7 @@ import NotFound from '../elements/NotFound/NotFound';
 
 const App =() =>{
     return(
-        <BrowserRouter basename='/Reactmovie2/'>
+        <BrowserRouter>
             <React.Fragment>
                 <Header />
                 <Switch>
